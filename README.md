@@ -19,7 +19,6 @@
 
   <ul>
     <li><a href="#data">Data</a></li>
-    <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#model-performance">Model Performance</a></li>
     <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
